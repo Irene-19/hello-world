@@ -1,2 +1,3 @@
 # hello-world
-Hello world
+Hey there,
+Just learning GIT.
